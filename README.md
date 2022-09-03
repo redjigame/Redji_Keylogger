@@ -7,7 +7,7 @@ I voluntarily downgraded his stealth during the SMTP process to prevent any mali
 
 BR/PT - 
 O uso do Redji_Keylogger esta permitido SOMENTE para fins educacionais para entender o funcionamento deste tipo de malware e como os detectar no seu computador.
-Eu voluntariamente reduzir sua furtividade durante o processo SMTP para evitar qualquer ação maliciosa.
+Eu voluntariamente reduzi sua furtividade durante o processo SMTP para evitar qualquer ação maliciosa.
 
 FR - 
 L'utilisation du Redji_Keylogger est permis UNIQUEMENT à des fins éducatives pour comprendre le fonctionnemnt de ce type de malware et comment les détecter dans votre ordinateur.
