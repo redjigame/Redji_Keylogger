@@ -13,4 +13,9 @@ FR -
 L'utilisation du Redji_Keylogger est permis UNIQUEMENT à des fins éducatives pour comprendre le fonctionnemnt de ce type de malware et comment les détecter dans votre ordinateur.
 J'ai volontairement réduit sa furtivité lors du processus SMTP afin de prévenir quelconque acte mal-intentionné. 
 
+<h2>Programming Languages</h2>
+<div style="display: inline_block">  
+<img align="center" alt="Renaud-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+</div>
+
 ![Virustotal](https://user-images.githubusercontent.com/48740296/188248247-6c849823-a330-42ca-aad0-5a2c335bd8b9.png)
